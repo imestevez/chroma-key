@@ -1,0 +1,44 @@
+build/Debug/Cygwin-Windows/_ext/93848677/paralelismo.o: \
+ /cygdrive/C/Users/ivan/Documents/Informatica/2º\ Curso/2º\ Cuatrimestre/AP/Proyecto\ ChromaKey/ProyectoCK/paralelismo.c \
+ /cygdrive/C/Program\ Files/opencv3.0.0/include/opencv/cv.h \
+ /cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/core/core_c.h \
+ /cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/core/types_c.h \
+ /cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/core/cvdef.h \
+ /cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/hal/defs.h \
+ /cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/imgproc/imgproc_c.h \
+ /cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/imgproc/types_c.h \
+ /cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/photo/photo_c.h \
+ /cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/video/tracking_c.h \
+ /cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/objdetect/objdetect_c.h \
+ /cygdrive/C/Program\ Files/opencv3.0.0/include/opencv/highgui.h \
+ /cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/highgui/highgui_c.h \
+ /cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/imgcodecs/imgcodecs_c.h \
+ /cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/videoio/videoio_c.h
+
+/cygdrive/C/Program\ Files/opencv3.0.0/include/opencv/cv.h:
+
+/cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/core/core_c.h:
+
+/cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/core/types_c.h:
+
+/cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/core/cvdef.h:
+
+/cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/hal/defs.h:
+
+/cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/imgproc/imgproc_c.h:
+
+/cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/imgproc/types_c.h:
+
+/cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/photo/photo_c.h:
+
+/cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/video/tracking_c.h:
+
+/cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/objdetect/objdetect_c.h:
+
+/cygdrive/C/Program\ Files/opencv3.0.0/include/opencv/highgui.h:
+
+/cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/highgui/highgui_c.h:
+
+/cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/imgcodecs/imgcodecs_c.h:
+
+/cygdrive/C/Program\ Files/opencv3.0.0/include/opencv2/videoio/videoio_c.h:
